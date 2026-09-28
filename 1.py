@@ -10,3 +10,4 @@ time.sleep(1)
 pyautogui.doubleClick(1238, 1420, interval=0.15)
 
 time.sleep(5)
+print("网易云音乐已打开")
